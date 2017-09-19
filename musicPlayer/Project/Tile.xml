@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual>
+    <binding template="TileSmall">
+      <text>Small</text>
+      <text hint-wrap="true" hint-style="captionSubtle">Text Field</text>
+      <image src ="Assets/timg.jpg" placement ="background"></image>
+    </binding>
+
+    <binding template="TileMedium" displayName="万维hr播放器" branding="name">
+      <text>Middle</text>
+      <text hint-wrap="true" hint-style="captionSubtle">Text Field</text>
+      <image src = "Assets/timg.jpg" placement ="background"></image>
+    </binding>
+
+    <binding template="TileWide" displayName="万维hr播放器" branding="name">
+      <text>Wide</text>
+      <text hint-wrap="true" hint-style="captionSubtle">Text Field</text>
+      <image src ="Assets/timg.jpg" placement ="background"></image>
+    </binding>
+
+    <binding template="TileLarge" displayName="万维hr播放器" branding="name">
+      <text>Large</text>
+      <text hint-wrap="true" hint-style="captionSubtle">Text Field</text>
+      <image src ="Assets/timg.jpg" placement ="background"></image>
+    </binding>
+  </visual>
+</tile>
+
+
